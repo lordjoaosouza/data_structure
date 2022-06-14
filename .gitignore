@@ -1,0 +1,6 @@
+# IntelliJ and Maven
+.idea/
+target/
+
+# Data Structure 2
+/src/main/java/Trees/
